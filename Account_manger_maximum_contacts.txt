@@ -1,0 +1,21 @@
+month	Account manager	number of contacts	percentage of the highest month
+2013-10	Aidan Pouros	26	59.47
+2013-10	Chauncey Dach	47	59.47
+2013-10	Milan Crona	27	59.47
+2013-10	Rigoberto White	13	59.47
+2014-10	Aidan Pouros	43	24.65
+2014-10	Chauncey Dach	19	24.65
+2014-10	Milan Crona	32	24.65
+2014-10	Rigoberto White	30	24.65
+2015-10	Aidan Pouros	27	21.2
+2015-10	Chauncey Dach	31	21.2
+2015-10	Milan Crona	23	21.2
+2015-10	Rigoberto White	25	21.2
+2016-10	Aidan Pouros	21	17.57
+2016-10	Chauncey Dach	29	17.57
+2016-10	Milan Crona	21	17.57
+2016-10	Rigoberto White	10	17.57
+2017-09	Aidan Pouros	5	23.3
+2017-09	Chauncey Dach	14	23.3
+2017-09	Milan Crona	17	23.3
+2017-09	Rigoberto White	36	23.3
